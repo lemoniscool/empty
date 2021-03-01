@@ -1,0 +1,15 @@
+{
+    "name":              "lemoniscool/empty",
+    "description":       "this is an empty package",
+    "minimum-stability": "stable",
+    "license":           "proprietary",
+    "authors":           [
+        {
+            "name":  "lemoniscool",
+            "email": "info@lemoniscool.pw"
+        }
+    ],
+    "require":           {
+
+    }
+}
